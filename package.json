@@ -1,6 +1,6 @@
 {
   "name": "hrms",
-  "version": "1.0.0",
+  "version": "3.0.0",
   "description": "Resources for hrms project",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "Tiny Framework",
     "Tiny MVC"
   ],
-  "author": "Kabir Hossain <kabir.cse10@gmail.com> (https://kabircse.github.io)",
+  "author": "Md. Nahidul Isalm <nahid.cse25@gmail.com> (https://nahidcse25.github.io)",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.19.0",
