@@ -21,7 +21,7 @@
  
       First, download the Sage using Composer:
    
-           composer global require "nahidcse25/sage":"dev-master"
+           composer global require "nahidcse25/sage":"dev-main"
            
 
   After install set up your database to /config/database.php.
